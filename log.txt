@@ -1,0 +1,22 @@
+﻿Tweets:
+1. @mypaninicafe is one of the few places I eat out. Irvine locations are awesome! #healthymeals #eatinghealthy
+2. I saw Soundgarden in Sacramento, 1997. My fav concert of all. Ears rang through noon nxt day. Sadly they announced… https://t.co/n3OXzpZBSf
+
+Spotify results:
+Artist: Ace of Base
+Song: The Sign
+Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album: The Sign (US Album) [Remastered]
+
+OMDb results:
+Title: Mr. Nobody
+Year: 2009
+Rated: R
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes: 64%
+
+Data from random.txt:
+Node.js is a pretty cool way to import JavaScript from external files and pull JSON data using npm libraries.
